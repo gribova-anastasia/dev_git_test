@@ -46,6 +46,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 1
 ![Название скриншота 1](https://github.com/gribova-anastasia/dev_git_test/blob/264999812cbf099ace58facc6a82794928097bc5/1.png)
+![Название скриншота 2](https://github.com/gribova-anastasia/dev_git_test/blob/a8c5db4491149c9da97649abc73da2c6caff016f/2.png)
 
 ## Задание 2. Теги
 
