@@ -46,6 +46,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 1
 ![Название скриншота 1](https://github.com/gribova-anastasia/dev_git_test/blob/264999812cbf099ace58facc6a82794928097bc5/1.png)
+
 ![Название скриншота 2](https://github.com/gribova-anastasia/dev_git_test/blob/a8c5db4491149c9da97649abc73da2c6caff016f/2.png)
 
 ## Задание 2. Теги
@@ -62,8 +63,10 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 2
 ![Название скриншота 3](https://github.com/gribova-anastasia/dev_git_test/blob/e09ccd4ef790fe0e91657e36d2af625e0e63ca79/3.png)
+
 ![Название скриншота 4](https://github.com/gribova-anastasia/dev_git_test/blob/e09ccd4ef790fe0e91657e36d2af625e0e63ca79/4.png)
 
+![Название скриншота 5](https://github.com/gribova-anastasia/dev_git_test/blob/a41b68950af9f315e9fe82290dcd6a5de4904c83/5.png)
 
 ## Задание 3. Ветки 
 
