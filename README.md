@@ -68,6 +68,10 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ![Название скриншота 5](https://github.com/gribova-anastasia/dev_git_test/blob/a41b68950af9f315e9fe82290dcd6a5de4904c83/5.png)
 
+![Название скриншота 6](https://github.com/gribova-anastasia/dev_git_test/blob/e9b790c14f1dd2588beb2e560e2049e78ca293b2/6.png)
+
+
+
 ## Задание 3. Ветки 
 
 Давайте посмотрим, как будет выглядеть история коммитов при создании веток. 
