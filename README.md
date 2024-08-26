@@ -87,12 +87,15 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 и как изменится вывод команды `git log`.
 
 ## Решение 3
+![Название скриншота 7](https://github.com/gribova-anastasia/dev_git_test/blob/cf7143e07aba700ec166544c0007e909fbd21205/7.png)
 
+![Название скриншота 8](https://github.com/gribova-anastasia/dev_git_test/blob/cf7143e07aba700ec166544c0007e909fbd21205/8.png)
 ## Задание 4. Упрощаем себе жизнь
 
 Попробуем поработь с Git при помощи визуального редактора. 
 
 ## Решение 4
+![Название скриншота 9](https://github.com/gribova-anastasia/dev_git_test/blob/cf7143e07aba700ec166544c0007e909fbd21205/9.png)
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
 https://gitlab.com/dev_git_test/111/
 https://github.com/gribova-anastasia/dev_git_test/
