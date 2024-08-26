@@ -61,6 +61,9 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
     * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
 
 ## Решение 2
+![Название скриншота 3](https://github.com/gribova-anastasia/dev_git_test/blob/e09ccd4ef790fe0e91657e36d2af625e0e63ca79/3.png)
+![Название скриншота 4](https://github.com/gribova-anastasia/dev_git_test/blob/e09ccd4ef790fe0e91657e36d2af625e0e63ca79/4.png)
+
 
 ## Задание 3. Ветки 
 
@@ -85,4 +88,4 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 ## Решение 4
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
 https://gitlab.com/dev_git_test/111/
-
+https://github.com/gribova-anastasia/dev_git_test/
