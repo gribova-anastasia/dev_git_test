@@ -1,27 +1,5 @@
 # Домашнее задание к занятию «Основы Git»
 
-### Цель задания
-
-В результате выполнения задания вы:
-
-* научитесь работать с Git, как с распределённой системой контроля версий; 
-* сможете создавать и настраивать репозиторий для работы в GitHub, GitLab и Bitbucket; 
-* попрактикуетесь работать с тегами;
-* поработаете с Git при помощи визуального редактора.
-
-### Чеклист готовности к домашнему заданию
-
-1. Установлена консольная утилита для работы с Git.
-2. Есть возможность зарегистрироваться на GitHub, GitLab.
-3. Регистрация на Bitbucket не является обязательной. 
-
-
-### Инструкция к заданию
-
-1. В личном кабинете отправьте на проверку ссылки на ваши репозитории.
-2. Любые вопросы по решению задач задавайте в чате учебной группы.
-
-------
 
 ## Задание 1. Знакомимся с GitLab и Bitbucket 
 
@@ -66,54 +44,8 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 * Измените видимость проекта на Public.
 * Нажмите «Сохранить изменения».
 
-### Bitbucket* (задание со звёздочкой) 
+##Решение 1
 
-Это самостоятельное задание, его выполнение необязательно.
-____
-
-Теперь необходимо проделать всё то же самое с [Bitbucket](https://bitbucket.org/). 
-
-1. Обратите внимание, что репозиторий должен быть публичным — отключите галочку `private repository` при создании репозитория.
-1. На вопрос `Include a README?` отвечайте отказом. 
-1. В отличии от GitHub и GitLab в Bitbucket репозиторий должен принадлежать проекту, поэтому во время создания репозитория 
-надо создать и проект, который можно назвать, например, `netology`.
-1. Аналогично GitLab на странице вновь созданного проекта выберите `https`, чтобы получить ссылку, и добавьте этот репозиторий, как 
-`git remote add bitbucket ...`.
-1. Обратите внимание, как изменился результат работы команды `git remote -v`.
-
-Если всё проделано правильно, то результат команды `git remote -v` должен быть следующий:
-
-```bash
-$ git remote -v
-bitbucket https://andreyborue@bitbucket.org/andreyborue/devops-netology.git (fetch)
-bitbucket https://andreyborue@bitbucket.org/andreyborue/devops-netology.git (push)
-gitlab	  https://gitlab.com/andrey.borue/devops-netology.git (fetch)
-gitlab	  https://gitlab.com/andrey.borue/devops-netology.git (push)
-origin	  https://github.com/andrey-borue/devops-netology.git (fetch)
-origin	  https://github.com/andrey-borue/devops-netology.git (push)
-```
-
-Дополнительно можете добавить удалённые репозитории по `ssh`, тогда результат будет примерно такой:
-
-```bash
-git remote -v
-bitbucket	git@bitbucket.org:andreyborue/devops-netology.git (fetch)
-bitbucket	git@bitbucket.org:andreyborue/devops-netology.git (push)
-bitbucket-https	https://andreyborue@bitbucket.org/andreyborue/devops-netology.git (fetch)
-bitbucket-https	https://andreyborue@bitbucket.org/andreyborue/devops-netology.git (push)
-gitlab	git@gitlab.com:andrey.borue/devops-netology.git (fetch)
-gitlab	git@gitlab.com:andrey.borue/devops-netology.git (push)
-gitlab-https	https://gitlab.com/andrey.borue/devops-netology.git (fetch)
-gitlab-https	https://gitlab.com/andrey.borue/devops-netology.git (push)
-origin	git@github.com:andrey-borue/devops-netology.git (fetch)
-origin	git@github.com:andrey-borue/devops-netology.git (push)
-origin-https	https://github.com/andrey-borue/devops-netology.git (fetch)
-origin-https	https://github.com/andrey-borue/devops-netology.git (push)
-```
-
-Выполните push локальной ветки `main` в новые репозитории. 
-
-Подсказка: `git push -u gitlab main`. На этом этапе история коммитов во всех трёх репозиториях должна совпадать. 
 
 ## Задание 2. Теги
 
@@ -145,42 +77,6 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 Попробуем поработь с Git при помощи визуального редактора. 
 
-1. В используемой IDE PyCharm откройте визуальный редактор работы с Git, находящийся в меню View -> Tool Windows -> Git.
-1. Измените какой-нибудь файл, и он сразу появится на вкладке `Local Changes`, отсюда можно выполнить коммит, нажав на кнопку внизу этого диалога. 
-1. Элементы управления для работы с Git будут выглядеть примерно так:
-
-   ![Работа с гитом](img/ide-git-01.jpg)
-   
-1. Попробуйте выполнить пару коммитов, используя IDE. 
-
-[По ссылке](https://www.jetbrains.com/help/pycharm/commit-and-push-changes.html) можно найти справочную информацию по визуальному интерфейсу. 
-
-Если вверху экрана выбрать свою операционную систему, можно посмотреть горячие клавиши для работы с Git. 
-Подробней о визуальном интерфейсе мы расскажем на одной из следующих лекций.
 
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
- 
-----
 
-### Правила приёма домашнего задания
-
-В личном кабинете отправлены ссылки на ваши репозитории.
-
-
-### Критерии оценки
-
-Зачёт:
-
-* выполнены все задания;
-* ответы даны в развёрнутой форме;
-* приложены соответствующие скриншоты и файлы проекта;
-* в выполненных заданиях нет противоречий и нарушения логики.
-
-На доработку:
-
-* задание выполнено частично или не выполнено вообще;
-* в логике выполнения заданий есть противоречия и существенные недостатки.  
- 
-Обязательными являются задачи без звёздочки. Их выполнение необходимо для получения зачёта и диплома о профессиональной переподготовке.
-
-Задачи со звёздочкой (*) являются дополнительными или задачами повышенной сложности. Они необязательные, но их выполнение поможет лучше разобраться в теме.
